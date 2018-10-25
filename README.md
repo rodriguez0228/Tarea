@@ -320,10 +320,15 @@ class Persona {
         }
         return "Informacion de la persona:\n"
                 + "Nombre: " + nombre + "\n"
+		
                 + "Sexo: " + sexo + "\n"
+		
                 + "Edad: " + edad + " años\n"
+		
                 + "DNI: " + DNI + "\n"
+		
                 + "Peso: " + peso + " kg\n"
+		
                 + "Altura: " + altura + " metros\n";
     }
  
