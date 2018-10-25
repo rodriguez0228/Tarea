@@ -96,14 +96,6 @@ public class PersonaApp {
 
 }
 
-
-/**
- * Clase Persona
- * Contiene información de una persona
- * @author DiscoDurodeRoer
- */
-class Persona {
- 
     //Constantes
     /**
      * Sexo por defecto
